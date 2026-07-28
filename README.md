@@ -2,6 +2,7 @@
 
 **Experience:** 
 · Junior Equity Research Analyst & Junior Risk Officer, 360 Huntington Fund (student-run, ~$2M AUM) 
+
 · Quantitative Research Analyst Intern, Global Delta Capital · Business Manager, Bharat Petroleum
 
 **Open to full-time finance roles** across investment research, portfolio and asset management, and risk.
