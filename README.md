@@ -2,7 +2,7 @@
 
 **Experience:**
 
-· Junior Equity Research Analyst & Junior Risk Officer, 360 Huntington Fund (student-run, ~$2M AUM), Boston, MA
+· Junior Risk Officer & Junior Equity Research Analyst , 360 Huntington Fund (student-run, ~$2M AUM), Boston, MA
 
 · Quantitative Research Analyst Intern, Global Delta Capital, Boston, MA
 
