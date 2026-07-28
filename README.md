@@ -6,7 +6,7 @@ I build quantitative finance systems in Python: portfolio risk, derivatives pric
 
 **Experience:** Junior Equity Research Analyst & Junior Risk Officer, 360 Huntington Fund (student-run, ~$2M AUM) · Quantitative Research Analyst Intern, Global Delta Capital · Business Manager, Bharat Petroleum
 
-**Focus:** equity & investment research · portfolio and asset management · market, portfolio & credit risk
+**Open to full-time finance roles** across investment research, portfolio and asset management, and risk.
 
 ---
 
