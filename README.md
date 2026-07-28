@@ -49,9 +49,3 @@ Also here: statistical testing on US health insurance coverage, geospatial site 
 | **ML** | XGBoost, LSTM, HMM, PCA, model validation |
 
 ---
-
-## Currently building
-
-An independent Python rebuild of an AutoZone (AZO) equity valuation — DCF and relative multiples with sensitivity analysis, built and defended solo.
-
-**LinkedIn:** *(add URL)* · **Email:** *(add address)*
