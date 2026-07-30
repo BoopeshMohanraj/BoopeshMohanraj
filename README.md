@@ -6,7 +6,7 @@
 
 · Quantitative Research Analyst Intern, Global Delta Capital, Boston, MA
 
-· Business Manager, Bharat Petroleum, India
+· Business Manager - Retail Fuel Distribution, Bharat Petroleum Corporation Limited (Authorized Bharat Petroleum Retail Dealership outlet), India
 
 **Open to full-time finance roles** across investment research, portfolio and asset management, and risk.
 
